@@ -51,7 +51,7 @@ node server.js
 
 #### prototype 사이트 맵 구조
 
-![](C:\Users\27\Downloads\Untitled Diagram.jpg)
+![Untitled Diagram](https://user-images.githubusercontent.com/65533327/89747294-21fa8700-daf9-11ea-963d-a6c5922f3397.jpg)
 
 #### -web_templete
 
@@ -109,15 +109,13 @@ node server.js
 
 9. #### 구성 및 소개영상
 
-   ![Untitled Diagram (1)](C:\Users\27\Downloads\Untitled Diagram (1).png)
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/65533327/89764078-bf23e280-db2e-11ea-858e-8c3b8b703f07.png)
 
    <video src="C:\Users\27\Downloads\ezgif.com-video-to-gif.mp4"></video>
 
-![Untitled Diagram (2)](C:\Users\27\Downloads\Untitled Diagram (2).jpg)
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/65533327/89764181-ea0e3680-db2e-11ea-9f27-f23a53ab6de3.jpg)
 
 #### Template 시나리오 모드
 
-![Untitled Diagram (1)](C:\Users\27\Downloads\Untitled Diagram (1).jpg)
-
-
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/65533327/89764188-ef6b8100-db2e-11ea-8d7a-f16bf65b3d97.jpg)
 
