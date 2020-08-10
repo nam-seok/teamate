@@ -47,6 +47,6 @@ node server.js
 
 ## 7. open web browser and connect to localhost:8080
 
-#### prototype 사이트 맵 구조
+## 8. prototype 사이트 맵 구조
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/65533327/89747294-21fa8700-daf9-11ea-963d-a6c5922f3397.jpg)
