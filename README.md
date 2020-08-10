@@ -46,3 +46,7 @@ node registerUser.js
 node server.js
 
 ## 7. open web browser and connect to localhost:8080
+
+#### prototype 사이트 맵 구조
+
+![](C:\Users\27\Downloads\Untitled Diagram.jpg)
